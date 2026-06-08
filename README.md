@@ -10,9 +10,9 @@ A production-quality full-stack smart parking platform with real-time slot manag
 
 ---
 
-## ✨ Features
+# ✨ Features
 
-### For Users
+ #For Users
 - 🗺️ **Interactive Parking Map** — Real-time SVG parking map with live slot status updates
 - 🔍 **Smart Recommendations** — Intelligent slot matching based on proximity, availability, and congestion
 - 📱 **Instant Reservations** — Book your parking slot before you arrive
@@ -20,13 +20,13 @@ A production-quality full-stack smart parking platform with real-time slot manag
 - 📋 **Booking History** — View past and current reservations
 - 🔔 **Real-time Updates** — Live slot availability via WebSocket
 
-### For Admins
+# For Admins
 - 📊 **Analytics Dashboard** — Occupancy rates, peak hours, zone statistics
 - 🏗️ **Slot Management** — Add, remove, and update parking slots
 - 📑 **Booking Management** — View and manage all bookings
 - 📈 **Daily Reports** — Revenue and occupancy reports
 
-### Technical
+# Technical
 - 🔐 **JWT Authentication** — Secure signup/login with role-based access
 - ⚡ **WebSocket Real-time** — Socket.io for live updates
 - 🧠 **Hidden Intelligence** — Graph-based algorithms for optimal recommendations (invisible to users)
